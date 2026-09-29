@@ -1,0 +1,2 @@
+Computer Science student. Skills: Java, Python, SQL, Git, Android, OOP.
+Built a RAG lab with Pinecone and Ollama.
